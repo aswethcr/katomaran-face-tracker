@@ -29,6 +29,28 @@ The system combines:
 The pipeline processes a video frame-by-frame, tracks people across frames, associates detected faces with persistent identities, and records movement across a configurable counting line.
 
 ---
+---
+
+## 🎥 🚀 Demo Video
+
+> **See Katomaran Intelligent Face Tracker in action!**
+
+### ▶️ [🎬 WATCH THE FULL DEMO VIDEO ON GOOGLE DRIVE](https://drive.google.com/drive/folders/1zjNXZUO73PPkcygxhrGoJeKtbBfoX7SW?usp=sharing)
+
+**The demo showcases:**
+
+- 🎯 Face detection
+- 🚶 Person tracking
+- 🧠 Face recognition
+- 🆔 Persistent identity assignment
+- ➡️ Entry / exit detection
+- 👥 Occupancy monitoring
+- 📊 Real-time statistics
+- 🎥 Processed video output
+
+> 💡 **Click the link above to watch the complete project demonstration.**
+
+---
 
 ## ✨ Features
 
