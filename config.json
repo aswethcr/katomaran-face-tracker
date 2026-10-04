@@ -1,0 +1,39 @@
+{
+    "input": {
+      "video_path": "data/videos/record_20250620_183903.mp4",
+      "use_rtsp": false,
+      "rtsp_url": ""
+    },
+    "output": {
+      "video_path": "output/processed_video.mp4",
+      "display": true
+    },
+    "models": {
+    "yolo_face_model": "models/yolov11n-face.pt",
+    "yolo_person_model": "models/yolo11n.pt",
+    "device": "mps"
+    },
+    "detection": {
+      "confidence": 0.5,
+      "skip_frames": 0
+    },
+    "recognition": {
+      "similarity_threshold": 0.60,
+      "registration_threshold": 0.50,
+      "samples_required": 3,
+      "max_samples": 5
+    },
+    "counting": {
+      "line_y": 760,
+      "cooldown_frames": 75
+    },
+    "database": {
+      "path": "database/faces.db"
+    },
+    "logging": {
+      "event_log": "logs/events.log",
+      "entry_image_dir": "logs/entries",
+      "exit_image_dir": "logs/exits"
+    }
+  }
+  
