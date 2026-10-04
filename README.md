@@ -35,7 +35,7 @@ The pipeline processes a video frame-by-frame, tracks people across frames, asso
 
 > **See Katomaran Intelligent Face Tracker in action!**
 
-### ▶️ [🎬 WATCH THE FULL DEMO VIDEO ON GOOGLE DRIVE](https://drive.google.com/drive/folders/1zjNXZUO73PPkcygxhrGoJeKtbBfoX7SW?usp=sharing)
+### ▶️ [🎬 WATCH THE FULL DEMO VIDEO](https://drive.google.com/drive/folders/1zjNXZUO73PPkcygxhrGoJeKtbBfoX7SW?usp=sharing)
 
 **The demo showcases:**
 
